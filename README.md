@@ -131,9 +131,9 @@ Le **Random Forest** obtient les meilleures performances. Les variables les plus
 
 ## 👤 Auteur
 
-Candidat en échange S5 — IAV Hassan II × UCLouvain  
-Filière : Informatique / Data Science appliquée à l'agronomie  
-Contact : [votre email]
+JABRANE Sohaib 
+Filière : Data Science appliquée à l'agronomie  
+Contact : jsohaibe@gmail.com
 
 ---
 
