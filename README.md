@@ -1,7 +1,6 @@
 # Analyse Spatio-Temporelle de la Pluviométrie et Impact sur le Rendement Agricole au Maroc
-
-> Projet réalisé dans le cadre d'une candidature en échange académique — UCLouvain (LBRTI2101)  
-> IAV Hassan II — Filière Bioinformatique & Data Science Agricole
+ 
+> IAV Hassan II — Data Science Agricole
 
 ---
 
